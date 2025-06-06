@@ -2,7 +2,10 @@
 This project is a comprehensive **Tube Map** of the Bangladesh Railway. It shows the routes, stations &amp; tracks types of all the area of the country. You can use this map to plan your travel, explore new destinations, or learn more about the rail route.
 
 ---
+## Credits
 
+- **Map Design**: Map Design and Customize ©HMHashemAli16, 2025.
+---
 ## License
 
 This work is licensed under the [Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
