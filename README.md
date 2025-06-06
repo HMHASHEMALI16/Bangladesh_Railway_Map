@@ -18,4 +18,4 @@ This work is licensed under the [Creative Commons Attribution–NonCommercial 4.
 
 ## Download
 
-**All released map availabe in [Releases](https://github.com/HMHASHEMALI16/Geo_Map_of_Bangladesh_Railway_Network/releases) Section**
+**All released map availabe in [Releases](https://github.com/HMHASHEMALI16/Tube_Map_of_Bangladesh_Railway_Network/releases) Section**
